@@ -12,7 +12,7 @@
 
 There are two ways to load the ixgbe module:
 
-#### 1) Load the module through /etc/rc.local:
+#### 1) Load the module through /etc/rc.local: (Recommand)
 
 Insert this line below into /etc/rc.local before the "exit 0;" line:
 
